@@ -15,7 +15,7 @@ docker compose down
 
 docker compose up -d --build
 
-## 📸 Скриншот
+## 📸 Скриншоты
 <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/e9c3d4b2-abbc-4788-890a-9ccc87cec72e" />
 <img width="2879" height="1636" alt="image" src="https://github.com/user-attachments/assets/35aa8a8f-ca35-4358-a790-8b186f77289a" />
 <img width="2879" height="1139" alt="image" src="https://github.com/user-attachments/assets/fd6317a2-f52f-4475-81a4-6792c3722195" />
