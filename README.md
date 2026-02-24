@@ -1,5 +1,3 @@
-<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/e9c3d4b2-abbc-4788-890a-9ccc87cec72e" /># 🚀 Kafka + Streamlit: Real-Time Sales Dashboard
-
 ## 📌 Описание
 Система генерирует и обрабатывает продажи в реальном времени с помощью **Apache Kafka**, визуализирует данные через **Streamlit** и анализирует их с помощью Python.
 
@@ -12,6 +10,7 @@
 
 ## 🚀 Запуск
 docker compose down
+
 docker compose up -d --build
 
 ## 📸 Скриншот
