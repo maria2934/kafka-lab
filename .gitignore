@@ -1,0 +1,20 @@
+# Виртуальное окружение
+venv/
+__pycache__/
+*.pyc
+
+# Docker
+.dockerignore
+
+# Логи и кэш
+*.log
+.cache/
+
+# Streamlit
+.streamlit/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
